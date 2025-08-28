@@ -1,0 +1,1056 @@
+{
+    "version": "0.4",
+    "title": "Staff",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6ab8280a",
+            "settings": {
+                "flex_direction": "column",
+                "min_height": {
+                    "unit": "vh",
+                    "size": 50,
+                    "sizes": []
+                },
+                "min_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "min_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "flex_justify_content": "center",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kits.haidezign.net\/xabite\/wp-content\/uploads\/sites\/30\/2024\/07\/Image-1.jpg",
+                    "id": 13,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.9,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                },
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                }
+            },
+            "elements": [
+                {
+                    "id": "5857501e",
+                    "settings": {
+                        "content_width": "full",
+                        "title": "Our Staff",
+                        "align": "center",
+                        "typography_font_family": "Karla",
+                        "typography_font_size": {
+                            "unit": "rem",
+                            "size": 3.7,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "rem",
+                            "size": 2.5,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": 1.5,
+                            "sizes": []
+                        },
+                        "typography_line_height_mobile": {
+                            "unit": "em",
+                            "size": 1.5,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "typography_typography": ""
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "3a63462e",
+                    "settings": {
+                        "content_width": "full",
+                        "editor": "<p>Home &gt; <a href=\"#\">Staff<\/a><\/p>",
+                        "align": "center",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=accent",
+                            "text_color": "globals\/colors?id=accent"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "79ee5938",
+            "settings": {
+                "flex_direction": "row",
+                "flex_justify_content": "space-between",
+                "flex_gap": {
+                    "column": "25",
+                    "row": "25",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 25
+                },
+                "flex_wrap": "wrap",
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "flex_justify_content_tablet": "space-evenly"
+            },
+            "elements": [
+                {
+                    "id": "a326af8",
+                    "settings": {
+                        "content_width": "full",
+                        "member_image": {
+                            "url": "https:\/\/kits.haidezign.net\/xabite\/wp-content\/uploads\/sites\/30\/2024\/07\/Team-2.jpg",
+                            "id": 1306,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "thumbnail_size": "full",
+                        "member_name": "Rawd Jhonson",
+                        "member_position": "Head Chef",
+                        "member_description": "",
+                        "social_media_item": [
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Facebook",
+                                "social_link": {
+                                    "url": "https:\/\/facebook.com"
+                                },
+                                "_id": "b74532e",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Twitter",
+                                "social_link": {
+                                    "url": "https:\/\/twitter.com"
+                                },
+                                "_id": "fd65146",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-instagram",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Instagram",
+                                "social_link": {
+                                    "url": "https:\/\/instagram.com"
+                                },
+                                "_id": "a26741d",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            }
+                        ],
+                        "card_border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "profile_image_ratio": "4\/5",
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "social_width": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "socmed_border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "background_normal_background": "classic",
+                        "content_padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "2",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "content_padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "socmed_spacing": {
+                            "unit": "px",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 32,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 47,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_normal_color": "globals\/colors?id=89343cb",
+                            "name_color_normal": "globals\/colors?id=f7d833c",
+                            "role_color_normal": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rtm-team",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7a12abdc",
+                    "settings": {
+                        "content_width": "full",
+                        "member_image": {
+                            "url": "https:\/\/kits.haidezign.net\/xabite\/wp-content\/uploads\/sites\/30\/2024\/07\/Team-4.jpg",
+                            "id": 1304,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "thumbnail_size": "full",
+                        "member_name": "Arien Browl",
+                        "member_position": "Asistant Chef",
+                        "member_description": "",
+                        "social_media_item": [
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Facebook",
+                                "social_link": {
+                                    "url": "https:\/\/facebook.com"
+                                },
+                                "_id": "b74532e",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Twitter",
+                                "social_link": {
+                                    "url": "https:\/\/twitter.com"
+                                },
+                                "_id": "fd65146",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-instagram",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Instagram",
+                                "social_link": {
+                                    "url": "https:\/\/instagram.com"
+                                },
+                                "_id": "a26741d",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            }
+                        ],
+                        "card_border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "profile_image_ratio": "4\/5",
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "social_width": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "socmed_border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "background_normal_background": "classic",
+                        "content_padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "2",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "content_padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "socmed_spacing": {
+                            "unit": "px",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 32,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 47,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_normal_color": "globals\/colors?id=89343cb",
+                            "name_color_normal": "globals\/colors?id=f7d833c",
+                            "role_color_normal": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rtm-team",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7d3ca917",
+                    "settings": {
+                        "content_width": "full",
+                        "member_image": {
+                            "url": "https:\/\/kits.haidezign.net\/xabite\/wp-content\/uploads\/sites\/30\/2024\/07\/Team-1-1.jpg",
+                            "id": 1307,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "thumbnail_size": "full",
+                        "member_name": "Robert ",
+                        "member_position": "Grill Staf",
+                        "member_description": "",
+                        "social_media_item": [
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Facebook",
+                                "social_link": {
+                                    "url": "https:\/\/facebook.com"
+                                },
+                                "_id": "b74532e",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Twitter",
+                                "social_link": {
+                                    "url": "https:\/\/twitter.com"
+                                },
+                                "_id": "fd65146",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-instagram",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Instagram",
+                                "social_link": {
+                                    "url": "https:\/\/instagram.com"
+                                },
+                                "_id": "a26741d",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            }
+                        ],
+                        "card_border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "profile_image_ratio": "4\/5",
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "social_width": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "socmed_border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "background_normal_background": "classic",
+                        "content_padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "2",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "content_padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "socmed_spacing": {
+                            "unit": "px",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 32,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 47,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_normal_color": "globals\/colors?id=89343cb",
+                            "name_color_normal": "globals\/colors?id=f7d833c",
+                            "role_color_normal": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rtm-team",
+                    "elType": "widget"
+                },
+                {
+                    "id": "179437b9",
+                    "settings": {
+                        "content_width": "full",
+                        "member_image": {
+                            "url": "https:\/\/kits.haidezign.net\/xabite\/wp-content\/uploads\/sites\/30\/2024\/07\/Team-6.jpg",
+                            "id": 1302,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "thumbnail_size": "full",
+                        "member_name": "Andre Mthew",
+                        "member_position": "Junior Chef",
+                        "member_description": "",
+                        "social_media_item": [
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Facebook",
+                                "social_link": {
+                                    "url": "https:\/\/facebook.com"
+                                },
+                                "_id": "b74532e",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Twitter",
+                                "social_link": {
+                                    "url": "https:\/\/twitter.com"
+                                },
+                                "_id": "fd65146",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-instagram",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Instagram",
+                                "social_link": {
+                                    "url": "https:\/\/instagram.com"
+                                },
+                                "_id": "a26741d",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            }
+                        ],
+                        "card_border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "profile_image_ratio": "4\/5",
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "social_width": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "socmed_border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "background_normal_background": "classic",
+                        "content_padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "2",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "content_padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "socmed_spacing": {
+                            "unit": "px",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 32,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 47,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_normal_color": "globals\/colors?id=89343cb",
+                            "name_color_normal": "globals\/colors?id=f7d833c",
+                            "role_color_normal": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rtm-team",
+                    "elType": "widget"
+                },
+                {
+                    "id": "2fe2d7b4",
+                    "settings": {
+                        "content_width": "full",
+                        "member_image": {
+                            "url": "https:\/\/kits.haidezign.net\/xabite\/wp-content\/uploads\/sites\/30\/2024\/07\/Team-3.jpg",
+                            "id": 1305,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "thumbnail_size": "full",
+                        "member_name": "Chef Theo Sanchez",
+                        "member_position": "Junior Chef",
+                        "member_description": "",
+                        "social_media_item": [
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Facebook",
+                                "social_link": {
+                                    "url": "https:\/\/facebook.com"
+                                },
+                                "_id": "b74532e",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Twitter",
+                                "social_link": {
+                                    "url": "https:\/\/twitter.com"
+                                },
+                                "_id": "fd65146",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-instagram",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Instagram",
+                                "social_link": {
+                                    "url": "https:\/\/instagram.com"
+                                },
+                                "_id": "a26741d",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            }
+                        ],
+                        "card_border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "profile_image_ratio": "4\/5",
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "social_width": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "socmed_border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "background_normal_background": "classic",
+                        "content_padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "2",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "content_padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "socmed_spacing": {
+                            "unit": "px",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 32,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 47,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_normal_color": "globals\/colors?id=89343cb",
+                            "name_color_normal": "globals\/colors?id=f7d833c",
+                            "role_color_normal": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rtm-team",
+                    "elType": "widget"
+                },
+                {
+                    "id": "37385065",
+                    "settings": {
+                        "content_width": "full",
+                        "member_image": {
+                            "url": "https:\/\/kits.haidezign.net\/xabite\/wp-content\/uploads\/sites\/30\/2024\/07\/Team-5.jpg",
+                            "id": 1303,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "thumbnail_size": "full",
+                        "member_name": "Julio Abdan",
+                        "member_position": "Sauce Specialist",
+                        "member_description": "",
+                        "social_media_item": [
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Facebook",
+                                "social_link": {
+                                    "url": "https:\/\/facebook.com"
+                                },
+                                "_id": "b74532e",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Twitter",
+                                "social_link": {
+                                    "url": "https:\/\/twitter.com"
+                                },
+                                "_id": "fd65146",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            },
+                            {
+                                "social_icon": {
+                                    "value": "fab fa-instagram",
+                                    "library": "fa-brands"
+                                },
+                                "social_label": "Instagram",
+                                "social_link": {
+                                    "url": "https:\/\/instagram.com"
+                                },
+                                "_id": "a26741d",
+                                "__globals__": {
+                                    "social_bg_normal": "globals\/colors?id=primary",
+                                    "social_color_normal": "globals\/colors?id=accent",
+                                    "social_bg_hover": "globals\/colors?id=secondary"
+                                }
+                            }
+                        ],
+                        "card_border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "profile_image_ratio": "4\/5",
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "social_width": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "socmed_border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "background_normal_background": "classic",
+                        "content_padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "2",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "content_padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "socmed_spacing": {
+                            "unit": "px",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 32,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 47,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_normal_color": "globals\/colors?id=89343cb",
+                            "name_color_normal": "globals\/colors?id=f7d833c",
+                            "role_color_normal": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rtm-team",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}
